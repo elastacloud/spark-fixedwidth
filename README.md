@@ -35,7 +35,7 @@ When reading files the API accepts several options:
 * `ignoreTrailingWhiteSpace`: Boolean, default true
 
 ### Scala API
-__Spark 1.4+:__
+__Spark 1.4+ / Spark 2.0:__
 
 See [sample fixed-width files](src/test/resources)
 ```scala
